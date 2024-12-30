@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\DirectoryNotFound.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\Argument.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\ArgumentNull.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\FileNotFound.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\InvalidOperation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\IO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\NullReference.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\ObjectDisposed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\OutOfMemory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\PathTooLong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\Security.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\UnauthorizedAccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\UnsupportedFileDrag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Importing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\NotSupported.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Saving.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Suche.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\TextNotFound.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fehlermeldungen\UnauthorizedAccessRegistry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
